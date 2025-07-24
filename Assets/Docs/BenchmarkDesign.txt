@@ -1,0 +1,151 @@
+Final Benchmark 2
+
+    Calculation Method:
+        points = (actual_performance/base_line_value)*base_line_points
+
+    Benchmark List:
+
+        CPU: (base_line_cpu_points = 2,00,000)
+
+            General:
+                1. deflate compression/decompression + base64 encoding/decoding (Time Based) {
+
+                    (base_line_points: 2,000 pts)
+
+                    (test_variable: This is a sample text to benchmark compression and encoding.) 
+
+                    base_line_value =  (Compression Time : 0.0056548) + 
+                    (Base64 Encoding Time: 0.0004516) + 
+                    (Base64 Decoding Time: 0.0008598) +
+                    (Decompression Time: 0.0022334) = (Total: 0.0091996)
+
+                }
+
+                2. cryptography exercising 3DES/CTR algorithms (Time Based) {
+
+                    (base_line_points: 3,000 pts)
+
+                    (test_variable: (numIterations = 100000), (plainText = "Hello, Unity!")) 
+
+                    base_line_value = (Encryption: 4.9829968) + (Decription: 5.0799084) = (Total: 0.9809225693)
+
+                }
+
+                3. image processing (Time Based){
+
+                    (base_line_points: 5,000 pts)
+
+                    (test_variable: numIterations = 250) 
+
+                    base_line_value = (Total: 6.9398829)
+                }
+
+                4. mesh processing (Time Based){
+
+                    (base_line_points: 10,000 pts)
+
+                    (test_variable: (numVertices = 10000),(numIterations = 5)) 
+
+                    base_line_value = (Total: 10.6911378)
+                }
+
+            Single-Core:
+                1. solving Dijkstra's pearls (Time Based){
+
+                    (base_line_points: 20,000 pts)
+
+                    (test_variable: gridSize = 350) 
+
+                    base_line_value = (Total: 78.6645199)
+                }
+
+
+                2. Monte-Carlo simulation calculating the availability of a NoSQL cluster (Time Based){
+
+                    (base_line_points: 15,000 pts)
+
+                    (test_variable: (simulationCount = 100000000),(clusterNodes = 500),
+                    (nodeFailureRate = 0.05f),(networkFailureRate = 0.1f)) 
+
+                    base_line_value = (Total: 37.89)
+                }
+
+
+                3. pi finding (Time Based){
+
+                    (base_line_points: 5,000 pts)
+
+                    (test_variable: totalPoints = 100000000) 
+
+                    base_line_value = (Total: 6.3710053)
+                }
+
+
+            Multi-Core:
+                1. matrix multiplication (Time Based){
+
+                    (base_line_points: 40,000 pts)
+
+                    (test_variable: Size = 2048) 
+
+                    base_line_value = (Total:  16.34)
+                }
+
+
+                2. sorting numbers (Time Based){
+
+                    (base_line_points: 50,000 pts)
+
+                    (test_variable: (arraySize = 1000000) + (numIterations = 10)) 
+
+                    base_line_value = (Total:  31.066684)
+                }
+
+
+                3. calculating prime numbers (Time Based)
+                {
+
+                    (base_line_points: 50,000 pts)
+
+                    (test_variable: (rangeEnd = 10000000) + (numIterations = 100)) 
+
+                    base_line_value = (Total:  27.0576372)
+                }
+        
+        GPU: (base_line_gpu_points = 2,70,000)
+
+            Level1: School (FPS)
+            Level2: Temple (FPS)
+            Level3: Ghost Village (FPS)
+
+        Ram: (Time Based){
+        
+            (base_line_ram_points: 100,000 pts)
+
+            (test_variable: (memoryBlockSizeMB = 1024) + (numIterations = 1)) 
+
+            base_line_value = ((Memory Allocation Time: 0.590672) + (Memory Deallocation Time: 0.3384947)) = (Total: 0.9291667)
+
+        }
+
+        Storage: (mb/s){
+
+            (base_line_storage_points: 100,000 pts)
+
+            (test_variable: (testDataSizeKB = 524288) + (numIterations = 1)) 
+
+            base_line_value = (356.37)
+        
+        }
+
+        UX: (base_line_gpu_points = 150,000)
+
+            1. Website demo (FPS){
+            
+            }
+
+            2. App Demo (FPS){
+            
+            }
+
+

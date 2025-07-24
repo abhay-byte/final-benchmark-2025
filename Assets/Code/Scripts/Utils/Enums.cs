@@ -1,0 +1,9 @@
+public class Enums
+{
+    public enum language { ENGLISH, RUSSIAN, HINDI, JAPANEASE, SPANISH };
+    public enum benchmarks { CPU, GPU, UX, MEMORY, STORAGE , NOT_BEGAN};
+    public enum CPU { COMPRESSION, CRYPTOGRAPHIC, IMAGE, MESH, PEARLS, SIMULATION, PI, MATRIX, SORTING, PRIME_NUMBER, NOT_BEGAN};
+    public enum GPU { SCHOOL, GHOST_VILLAGE, TEMPLE, NOT_BEGAN};
+    public enum UX { APP_DEMO, WEBSITE_DEMO, NOT_BEGAN };
+
+}
