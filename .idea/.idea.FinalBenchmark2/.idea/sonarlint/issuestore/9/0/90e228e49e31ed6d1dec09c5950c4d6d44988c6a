@@ -1,0 +1,11 @@
+
+Pcsharpsquid:S3903"3Move 'CompressionBenchmark' into a named namespace.(¯Õ¡Œ
+Zcsharpsquid:S3903…"7Move 'CompressionBenchmarkData' into a named namespace.(İøÜÁüÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÛŸ¯şÿÿÿÿ
+bcsharpsquid:S1104‡"DMake this field 'private' and encapsulate it in a 'public' property.(™Òô¶
+gcsharpsquid:S1104ˆ"DMake this field 'private' and encapsulate it in a 'public' property.(òÙùÿÿÿÿÿ
+bcsharpsquid:S1104‰"DMake this field 'private' and encapsulate it in a 'public' property.(ô•œ
+gcsharpsquid:S1104Š"DMake this field 'private' and encapsulate it in a 'public' property.(Ìö¢Şÿÿÿÿÿ
+zcsharpsquid:S1450"XRemove the field 'inputData' and declare it as a local variable in the relevant methods.(ƒ£äôşÿÿÿÿ
+zcsharpsquid:S1450"]Remove the field 'compressedData' and declare it as a local variable in the relevant methods.(Ï¹Ø†
+}csharpsquid:S1450"`Remove the field 'base64EncodedData' and declare it as a local variable in the relevant methods.(”–õ

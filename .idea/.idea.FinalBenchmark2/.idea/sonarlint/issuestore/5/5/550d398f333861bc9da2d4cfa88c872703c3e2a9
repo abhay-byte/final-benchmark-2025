@@ -1,0 +1,40 @@
+
+csharpsquid:S101r"eRename class 'GPUBenchmarkData' to match pascal case naming rules, consider using 'GpuBenchmarkData'.(ü—šöúÿÿÿÿ8¦¯¯€Å1
+ˆcsharpsquid:S101_"eRename class 'CPUBenchmarkData' to match pascal case naming rules, consider using 'CpuBenchmarkData'.(° ¹ƒ8§¯¯€Å1
+€csharpsquid:S101"]Rename class 'BenchmarkFPS' to match pascal case naming rules, consider using 'BenchmarkFps'.(®™¤º8§¯¯€Å1
+Wcsharpsquid:S3903y".Move 'UXBenchmarkData' into a named namespace.(¾•­Ôşÿÿÿÿ8§¯¯€Å1
+Wcsharpsquid:S3903U".Move 'BenchmarkPoints' into a named namespace.(Úßï»úÿÿÿÿ8¨¯¯€Å1
+Xcsharpsquid:S3903r"/Move 'GPUBenchmarkData' into a named namespace.(ü—šöúÿÿÿÿ8¨¯¯€Å1
+Ucsharpsquid:S3903J",Move 'BenchmarkData' into a named namespace.(•ñ«¨ÿÿÿÿÿ8¨¯¯€Å1
+Scsharpsquid:S3903_"/Move 'CPUBenchmarkData' into a named namespace.(° ¹ƒ8¨¯¯€Å1
+Ocsharpsquid:S3903"+Move 'BenchmarkFPS' into a named namespace.(®™¤º8¨¯¯€Å1
+Qcsharpsquid:S3903"(Move 'Benchmark' into a named namespace.(¶É°Èùÿÿÿÿ8©¯¯€Å1
+hcsharpsquid:S1104{"DMake this field 'private' and encapsulate it in a 'public' property.(Íãñ¦8©¯¯€Å1
+mcsharpsquid:S1104W"DMake this field 'private' and encapsulate it in a 'public' property.(¢æŠ®øÿÿÿÿ8©¯¯€Å1
+hcsharpsquid:S1104t"DMake this field 'private' and encapsulate it in a 'public' property.(úã—Ì8©¯¯€Å1
+mcsharpsquid:S1104|"DMake this field 'private' and encapsulate it in a 'public' property.(İîëšûÿÿÿÿ8ª¯¯€Å1
+hcsharpsquid:S1104X"DMake this field 'private' and encapsulate it in a 'public' property.(ÁşÈÜ8ª¯¯€Å1
+hcsharpsquid:S1104u"DMake this field 'private' and encapsulate it in a 'public' property.(·ÔÓ®8ª¯¯€Å1
+mcsharpsquid:S1104Y"DMake this field 'private' and encapsulate it in a 'public' property.(×™°êøÿÿÿÿ8ª¯¯€Å1
+mcsharpsquid:S1104v"DMake this field 'private' and encapsulate it in a 'public' property.(íåÂ±øÿÿÿÿ8«¯¯€Å1
+mcsharpsquid:S1104Z"DMake this field 'private' and encapsulate it in a 'public' property.(ãÊîÇıÿÿÿÿ8«¯¯€Å1
+mcsharpsquid:S1104L"DMake this field 'private' and encapsulate it in a 'public' property.(¥Š«Ÿşÿÿÿÿ8«¯¯€Å1
+hcsharpsquid:S1104["DMake this field 'private' and encapsulate it in a 'public' property.(Ëø¨8«¯¯€Å1
+mcsharpsquid:S1104b"DMake this field 'private' and encapsulate it in a 'public' property.(ÂæÜĞüÿÿÿÿ8¬¯¯€Å1
+mcsharpsquid:S1104N"DMake this field 'private' and encapsulate it in a 'public' property.(•™¢Êşÿÿÿÿ8¬¯¯€Å1
+hcsharpsquid:S1104c"DMake this field 'private' and encapsulate it in a 'public' property.(ÇÌûÅ8¬¯¯€Å1
+mcsharpsquid:S1104O"DMake this field 'private' and encapsulate it in a 'public' property.(»¦¶—ùÿÿÿÿ8¬¯¯€Å1
+mcsharpsquid:S1104d"DMake this field 'private' and encapsulate it in a 'public' property.(¨¨Ãóøÿÿÿÿ8­¯¯€Å1
+mcsharpsquid:S1104e"DMake this field 'private' and encapsulate it in a 'public' property.(¬›€¼ûÿÿÿÿ8­¯¯€Å1
+mcsharpsquid:S1104h"DMake this field 'private' and encapsulate it in a 'public' property.(÷Á†…ùÿÿÿÿ8­¯¯€Å1
+hcsharpsquid:S1104i"DMake this field 'private' and encapsulate it in a 'public' property.(´‡›­8®¯¯€Å1
+mcsharpsquid:S1104P"DMake this field 'private' and encapsulate it in a 'public' property.(úìîüÿÿÿÿ8®¯¯€Å1
+mcsharpsquid:S1104j"DMake this field 'private' and encapsulate it in a 'public' property.(ÏË³Áüÿÿÿÿ8®¯¯€Å1
+mcsharpsquid:S1104Q"DMake this field 'private' and encapsulate it in a 'public' property.(ìÙüçúÿÿÿÿ8®¯¯€Å1
+gcsharpsquid:S1104m"DMake this field 'private' and encapsulate it in a 'public' property.(Äö•(8¯¯¯€Å1
+hcsharpsquid:S1104R"DMake this field 'private' and encapsulate it in a 'public' property.(øäéò8¯¯¯€Å1
+gcsharpsquid:S1104n"DMake this field 'private' and encapsulate it in a 'public' property.(ö£ÇQ8¯¯¯€Å1
+mcsharpsquid:S1104o"DMake this field 'private' and encapsulate it in a 'public' property.(çÈïÉÿÿÿÿÿ8¯¯¯€Å1
+ncsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ìóõúÿÿÿÿ8°¯¯€Å1
+icsharpsquid:S1104‚"DMake this field 'private' and encapsulate it in a 'public' property.(¥¢³–8°¯¯€Å1
+icsharpsquid:S1104ƒ"DMake this field 'private' and encapsulate it in a 'public' property.(ƒ™ÿé8±¯¯€Å1
